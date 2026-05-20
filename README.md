@@ -167,6 +167,9 @@ This is the dataset i used: https://www.kaggle.com/datasets/georgenjau/sales-ana
 # Project SnapShot
 <img width="396" height="368" alt="image" src="https://github.com/user-attachments/assets/5ed88dde-ed45-4d94-ae45-96f80fc36b48" />
 
+<img width="646" height="378" alt="image" src="https://github.com/user-attachments/assets/ccd17b0c-1329-4064-a554-d80d0b580f76" />
+
+
 # Project Delivarables
 This project includes:
 
